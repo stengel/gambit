@@ -1,0 +1,6 @@
+﻿Hello,
+
+I am trying to create a wiki page
+for the gambit project.
+
+--Bernhard 
